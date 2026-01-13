@@ -46,5 +46,5 @@ const CONFIG = {
   },
   
   // Text on seed heart
-  seedText: 'Miss You'
+  seedText: 'Click me'
 };
